@@ -29,7 +29,11 @@ Depending on the sponsoring level the sponsors get from us different things.
 
 On the one hand they get free tickets and options to buy more tickets (in case we are sold out these tickets are still buyable for the sponsors).
 
-On the other hand they get a lot of opportunities to advertise their company. Depending on the level they may put up posters or booths to talk to attendees. We also mention some in tweets or in any mails we send to our participants.
+On the other hand they get a lot of opportunities to advertise their company. Depending on the sponsoring level there are a lot of things the companies may do at the venue: put up posters, have booths or stands, give out swag to the attendees.
+
+Also regarding the sponsoring levels there are some things that we as a conference do to promote the sponsors. We thank them in tweets. We mention them in emails and also during the conference.
+
+As they are one of the main reasons the conference can be run you should be grateful for their support and show them that.
 
 #### What do the sponsors provide
 
@@ -45,7 +49,7 @@ And also here you can differentiate between organizing this yourself and hand ov
 
 ### Find sponsors
 
-Don't be scared but finding sponsors is an exhausting task with a lot of communication. It is also a very important and refreshing tasks if you like to organize and talk to people.
+Don't be scared but finding sponsors is an exhausting task with a lot of communication. It is also a very important and refreshing task if you like to organize and talk to people.
 
 #### Use your network
 
@@ -61,6 +65,8 @@ Another thing is to ask for sponsoring or support on social media platforms like
 
 ------------------------
 ### Sample letter
+
+*Important!* This was our 4th iteration after 4 years. We started with a much more basic design, mainly text. We have the luck of having a designer in the team, so don't be daunted. In case you are curious, [here  is our first version.](material/JSUnconf2014_first_letter.pdf)
 
 This is our latest cover letter for JSUnconf 2017. We sent this along with a set of slides to all our sponsoring requests.
 
