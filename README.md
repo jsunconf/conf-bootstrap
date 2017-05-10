@@ -15,3 +15,5 @@ Please read [this file](HOW_TO_CONTRIBUTE.md) 🎉❤️.
 --------------
 
 The most important thing after the [preparation thoughts](preparation.md) is having a date and a location. So let's focus on [date and location finding](location.md) a little bit. You can see that location finding is not an easy task. But the most important one before starting anything else. Without a location you can't start a conference.
+
+After you found a venue and a date for your conference the next step is to have a financing plan. That means on the one hand [sponsors](sponsoring.md) (or other money income like donations) and participants.
