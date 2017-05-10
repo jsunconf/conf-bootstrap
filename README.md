@@ -8,7 +8,9 @@ Each category will have a detailed description of what we can recommend and into
 
 Please also keep in mind that this is from our point of view as a non-profit organisation.
 
+## Contribute to this project
 
+Please read [this file](HOW_TO_CONTRIBUTE.md) 🎉❤️.
 
 --------------
 
