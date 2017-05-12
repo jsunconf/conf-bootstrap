@@ -23,13 +23,15 @@ If you don't want to do it alone now is the time to find [like-minded people](te
 
 With these settings in mind you can start looking for a [date and location finding](location.md). You will see that finding a location is not an easy task. But the most important one before starting anything else. Without a location you can't have a conference.
 
-After you found a venue and a date for your conference the next step is to have a [financing plan](financing.md). That means on the one hand [sponsors](sponsoring.md) (or other income like donations) and [participants](participants.md). To get these you need some kind of [website](website.md) to provide information for your audience.
+After you found a venue and a date for your conference the next step is to have a [financing plan](finance.md). That means [sponsors](sponsoring.md) (or other income like donations) and [tickets](tickets.md). To get attention you need a [website](website.md) to provide information for your audience about your event.
 
 To run this event you need a [code of conduct](coc.md). There will be some people who say this is optional but it is not.
 
 If you run an unconference this is all you need. If you run a conference with curated talks you need a [CFP](cfp.md) and afterwards a [selection process](talkSelection.md) for the talks. Everything else is optional.
 
-If you feel confident to provide more than the basic settings let's discuss these options. You can offer [catering](catering.md), [diversity support](diversitySupport.md), [swag](swag.md), [a party](party.md), [workshops](workshops.md̨).
+If you feel confident to provide more than the basic settings let's discuss these options. You can offer [catering](catering.md), [diversity support](diversitySupport.md), [swag](swag.md), [a party](party.md), [workshops](workshops.md̨), [badges](badges.md).
+
+Here is a basic [roadmap](roadmap.md).
 
 # The day of the event
 
