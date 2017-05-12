@@ -13,7 +13,30 @@ Please also keep in mind that this is from our point of view as a non-profit org
 Please read [this file](HOW_TO_CONTRIBUTE.md) 🎉❤️.
 
 --------------
+# The event
 
-The most important thing after the [preparation thoughts](preparation.md) is having a date and a location. So let's focus on [date and location finding](location.md) a little bit. You can see that location finding is not an easy task. But the most important one before starting anything else. Without a location you can't start a conference.
+The first thing when you want to start a conference is to check if you have an audience and find a [setting](settings.md) that is realistic.
 
-After you found a venue and a date for your conference the next step is to have a financing plan. That means on the one hand [sponsors](sponsoring.md) (or other money income like donations) and participants.
+# Before the event
+
+If you don't want to do it alone now is the time to find [like-minded people](team.md).
+
+With these settings in mind you can start looking for a [date and location finding](location.md). You will see that finding a location is not an easy task. But the most important one before starting anything else. Without a location you can't have a conference.
+
+After you found a venue and a date for your conference the next step is to have a [financing plan](financing.md). That means on the one hand [sponsors](sponsoring.md) (or other income like donations) and [participants](participants.md). To get these you need some kind of [website](website.md) to provide information for your audience.
+
+To run this event you need a [code of conduct](coc.md). There will be some people who say this is optional but it is not.
+
+If you run an unconference this is all you need. If you run a conference with curated talks you need a [CFP](cfp.md) and afterwards a [selection process](talkSelection.md) for the talks. Everything else is optional.
+
+If you feel confident to provide more than the basic settings let's discuss these options. You can offer [catering](catering.md), [diversity support](diversitySupport.md), [swag](swag.md), [a party](party.md), [workshops](workshops.md̨).
+
+# The day of the event
+
+To prevent people to join your event who haven't paid you need some sort of [access control](accessControl.md).
+
+If you run an unconference you have to prepare and organize the [voting process](voting.md)
+
+# After the event
+
+Check your finances. Thank your sponsors and attendees. Get feedback.
