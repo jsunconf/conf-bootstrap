@@ -27,9 +27,9 @@ After you found a venue and a date for your conference the next step is to have 
 
 To run this event you need a [code of conduct](coc.md). There will be some people who say this is optional but it is not.
 
-If you run an unconference this is all you need. If you run a conference with curated talks you need a [CFP](cfp.md) and afterwards a [selection process](talkSelection.md) for the talks. Everything else is optional.
+If you run an unconference this is all you need at the moment. If you run a curated conference you need a CFP and afterwards a selection process for the [curated talks](curatedTalks.md).
 
-If you feel confident to provide more than the basic settings let's discuss these options. You can offer [catering](catering.md), [diversity support](diversitySupport.md), [swag](swag.md), [a party](party.md), [workshops](workshops.md̨), [badges](badges.md).
+If you feel confident to provide more than the basic settings let's discuss these options. You can offer [Contriboot™](contriboot.md),  [catering](catering.md), [diversity support](diversitySupport.md), [swag](swag.md), [parties](party.md), [workshops](workshops.md̨), [badges](badges.md).
 
 Here is a basic [roadmap](roadmap.md).
 
