@@ -37,10 +37,6 @@ Keep in mind that you need a lot of infrastructure. You will need:
   - rest rooms
   - barrier-free access to everything
 
-<!---
-For an unconference around 3 tracks in parallel worked out well for us. We usually have 300-400 attendees.
--->
-
 For conferences universities work great. They have large lecture rooms, pre-equipped with projectors, sound equipment and seats. In many cases they already have Wi-Fi.
 Sometimes you can get a better price in return for free tickets for their students.
 
