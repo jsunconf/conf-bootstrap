@@ -13,7 +13,7 @@ Choose your tools of communication wisely. If they don't work change them. Talk 
 This is our toolchain:
 
 - We use *slack* for daily communication issues.
-- We meet or *skype* every 4-6 weeks to keep each other updated.
+- We meet or use *google hangout* every 4-6 weeks to keep each other updated.
 - We use *google drive* for all documentation.
 - We use *trello* for progress overview.
 
@@ -21,7 +21,7 @@ This is our toolchain:
 
 We extracted the following more or less independent topics / responsibilities:
 * Sponsoring
-* Locations
+* Location
 * Tickets
 * Party
 * Catering
@@ -36,6 +36,11 @@ We extracted the following more or less independent topics / responsibilities:
 
 At the Kick-off Meeting every topic is assigned to one or two team members who have the full responsibility.
 
-----
+Some topics overlap. So there must be some communication between the teams.
 
-[Find a date and a location.](location.md)
+## Retrospective
+
+Each year after the conference we meet for a Retrospective / PMA regarding the process and the actual conference. We invite an external moderator to oversee the meeting.
+The goal of this meeting is to check what went good and what can be improved for the next time.
+
+Simply put: we want to learn from our mistakes to improve each year in a nicely Kaizen matter.
