@@ -66,7 +66,7 @@ Another thing is to ask for sponsoring or support on social media platforms like
 ------------------------
 ### Sample letter
 
-*Important!* This was our 4th iteration after 4 years. We started with a much more basic design, mainly text. We have the luck of having a designer in the team, so don't be daunted. In case you are curious, [here  is our first version.](material/JSUnconf2014_first_letter.pdf)
+*Important!* This was our 4th iteration after 4 years. We started with a much more basic design, mainly text. We have the luck of having a designer in the team, so don't be daunted. In case you are curious, [here is our first version.](material/JSUnconf2014_first_letter.pdf)
 
 This is our latest cover letter for JSUnconf 2017. We sent this along with a set of slides to all our sponsoring requests.
 
