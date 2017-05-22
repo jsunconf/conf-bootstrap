@@ -12,7 +12,16 @@ I suggest to find something like this as well, find a company as sponsor which c
 
 The biggest expenses you will have are location and food. If you find a cheap location - maybe a sponsoring company - catering will be the main cost factor.
 
-### Example: JSUnconf revenues 2017
+To give you some ideas about numbers here is a little example:
+
+```
+CouchDB Day    100 attendees   1 day      6.000€
+JSUnconf       300 attendees   2 days    30.000€
+```
+
+## Examples
+
+### JSUnconf revenues 2017
 
 | Category | Item | Cost | Percentage |
 | ----| ---- | ---: | ---: |
@@ -22,7 +31,7 @@ The biggest expenses you will have are location and food. If you find a cheap lo
 | Tickets | netto | 21,448.20 € | 46,63 % |
 | Sum |  | 45,948.20 € | |
 
-### Example: JSUnconf expenses 2017
+### JSUnconf expenses 2017
 
 | Category | Item | Cost | Percentage |
 | ----| ---- | ---: | ---: |
