@@ -4,11 +4,13 @@ As you can see in our [finance plan](./finance.md) about half of our revenues co
 
 Ticket sales are important because of two reasons. On the one hand you get money for the conference and on the other hand you can regulate and check the number of attendees which you need for catering and location.
 
+We decided against free tickets for everyone. Having even just a small, symbolic price helps in reducing the no-show rate and avoids ticket-hoarding.
+
 If you don't know how large your audience will be start small. You can grow larger any time. But keep your finances in mind.
 
 ## Sale
 
-We sell the tickets in three steps. About a fifth of the tickets we sell as *Early Bird* tickets. The rest we sell in batches of 50 - 100 tickets on sundays.
+We sell the tickets in three steps. About a fifth of the tickets we sell as *Early Bird* tickets. The rest we sell in batches of 50 - 100 tickets on Sundays. Why on Sundays? Because we are a community conference and want to avoid that big companies buy all of our tickets when others are at work.
 
 We had added some *Late Bird* tickets as well. But in the last year we just offered *Diversity support* tickets instead.
 
