@@ -23,15 +23,18 @@ If you don't want to do it alone now is the time to find [like-minded people](te
 
 With these settings in mind you can start looking for a [date and location finding](location.md). You will see that finding a location is not an easy task. But the most important one before starting anything else. Without a location you can't have a conference.
 
-After you found a venue and a date for your conference the next step is to have a [financing plan](finance.md). That means [sponsors](sponsoring.md) (or other income like donations) and [tickets](tickets.md). To get attention you need a [website](website.md) to provide information for your audience about your event.
+With fixed date and location you can kick off several things which are hard or impossible to start before. You can now start to set up a [financing plan](finance.md). The financing could involve contacting [sponsors](sponsoring.md) (or other income like donations) and [tickets](tickets.md).
+
+To get attention you need a [website](website.md) to provide information for your audience about your event. As you now have the amount of attendees (see [setting](settings.md)
+), the location and date you should set up an insurance. It protects you and your attendees in case something bad happens, i.e. a lamp falls off the ceiling and hits an attendee. For ~400 people in an university as location the costs are around 200€ for 2 days (in Germany).
 
 To run this event you need a [code of conduct](coc.md). There will be some people who say this is optional but it is not.
 
-If you run an unconference this is all you need at the moment. If you run a curated conference you need a CFP and afterwards a selection process for the [curated talks](curatedTalks.md).
+If you run an unconference this the very basic setup. If you run a curated conference you need a CFP and afterwards a selection process for the [curated talks](curatedTalks.md).
 
-If you feel confident to provide more than the basic settings let's discuss these options. You can offer [Contriboot™](contriboot.md),  [catering](catering.md), [diversity support](diversitySupport.md), [swag](swag.md), [parties](party.md), [workshops](workshops.md̨), [badges](badges.md).
+If you feel confident and want to provide more than the basic setup there are some other things you can add. You can offer [Contriboot™](contriboot.md), [catering](catering.md), [diversity support](diversitySupport.md), [swag](swag.md), [parties](party.md), [workshops](workshops.md̨) and [badges](badges.md).
 
-Here is a basic [roadmap](roadmap.md).
+This is the basic [roadmap](roadmap.md) of our unconferences. Many tasks have to get tackled sequentially, i.e. you can just order food after the ticket sale closes and you know the amount of attendees (minus the typical no-show-rate).
 
 # The day of the event
 
